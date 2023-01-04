@@ -1,2 +1,9 @@
+# Hi, I'm Niko!
 
-![githubthing](https://user-images.githubusercontent.com/18615981/172857568-19e3669d-dc6c-4440-9058-6136507ad213.png)
+I'm just a dude from **Ukraine.** *(he/him)*
+
+I know three languages: **English, Russian, Ukrainian.**
+
+I'm familiar with a whole bunch of programming languages, but out of them, I'm most comfortable with **Rust and Typescript.**
+
+I have **ADHD.**
