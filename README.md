@@ -1,6 +1,6 @@
 # Hi, I'm Niko!
 
-I'm just a dude from **Ukraine.** *(he/him)*
+I'm just some random person from **Ukraine.**
 
 I know three languages: **English, Russian, Ukrainian.**
 
