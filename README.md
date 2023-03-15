@@ -1,4 +1,4 @@
-# Hi, I'm Niko!
+# Hi, I'm Nik!
 
 I'm just some random person from **Ukraine.**
 
