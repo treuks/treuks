@@ -1,9 +1,26 @@
-# Hi, I'm Niki!
+# Hi, I'm Belle!
 
-Just some random girl from **Ukraine.**
+Just some random girl from **Ukraine**, blahblahblah, copyright lololol. 
 
-I know three humanning languages: **English, Russian, Ukrainian.**
+I know three humanning languages: **English**, **Russian** and **Ukrainian**. 
 
-Familiar with a whole bunch of programming languages, don't have a favourite one, I guess Crystal and TypeScript(with Deno and BunJS) are close enough.
+I would prefer for you to talk to me in ***English***.
 
-I only post projects that are at a somewhat finished state. (which, as you can see, doesn't happen often, lol)
+---
+
+Unordered list of favourite programming languages:
+
+* **Gleam**
+* **Crystal**
+* **TypeScript** (Deno)
+* **Rust**
+  
+---
+
+I only post projects that are at a somewhat finished state (which, as you can see, doesn't happen often, lol), and I do most of them for fun and learning.
+
+I'm not the best of programmers, please don't look at my code as an example of what you should or shouldn't do (especially if its like, really old).
+
+---
+
+Please remember that the only thing in life that matters is to have fun.
