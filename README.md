@@ -1,4 +1,4 @@
-# Hi, I'm Belle!
+# Hi, I'm Aurora!
 
 Just some random girl from **Ukraine**, blahblahblah, copyright lololol. 
 
