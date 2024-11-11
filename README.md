@@ -1,6 +1,3 @@
-# Hi, I'm Aurora!
-
-Just some random girl from **Ukraine**, blahblahblah, copyright lololol. 
 
 I know three humanning languages: **English**, **Russian** and **Ukrainian**. 
 
