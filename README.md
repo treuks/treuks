@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <img aria-hidden="true" src="https://github.com/user-attachments/assets/f9f1335d-e6c7-4d01-9551-0cf96985e17c">
-  <img alt="About me" src="https://github.com/user-attachments/assets/e71a431b-207b-4268-98f1-91d3412f22d7">
+  <img alt="text: About me" src="https://github.com/user-attachments/assets/e71a431b-207b-4268-98f1-91d3412f22d7">
 
   <img aria-hidden="true" src="https://github.com/user-attachments/assets/f9f1335d-e6c7-4d01-9551-0cf96985e17c">
 </h1>
